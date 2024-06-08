@@ -29,7 +29,7 @@
 <hr>
 
 
-### 💻 Programming Languages
+### 💻 Lenguajes de programacion 
 
 <p align="center">
   <a href="https://anuphaldar.com">
@@ -38,19 +38,28 @@
 </p>
 
 
-### 🧰 Frameworks and Libraries
+### 🧰 Frameworks y librerias
 
 <p align="center">
   <a href="https://anuphaldar.com">
-    <img src="https://skillicons.dev/icons?i=sass,react,nodejs,express,astro,dotnet,fastapi,vite   " />
+    <img src="https://skillicons.dev/icons?i=sass,react,nodejs,express,astro,dotnet,fastapi,vite,tailwind   " />
   </a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ bases de datos y cloud hosting
 
 <p align="center">
 	  <a href="https://anuphaldar.com">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,vercel,netlify" />
+  </a>
+</p>
+
+
+### 🗄️ Herramientas
+
+<p align="center">
+	  <a href="https://anuphaldar.com">
+    <img src="https://skillicons.dev/icons?i=figma,git,github,bash,discord,notion,npm,matlab,pnpm,postman,stackoverflow,vscode,visualstudio" />
   </a>
 </p>
 <hr>
