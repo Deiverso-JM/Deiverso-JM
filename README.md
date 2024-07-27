@@ -80,19 +80,4 @@
 </div>
 
 
-<!-- Projects section -->
 
-## 📘 Proyectos Open Source
-
-<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <p style="widht: 100%;" align="center">
-  <a>....</a>
-  <a>....</a>
-  </p>
-  <p align="center">&#8192;</p>
-  <p style="widht: 100%;" align="center">
-    <a href="https://media3.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif?cid=82a1493bzwbzx1npl4pgilkodd16q8k9wjoozxre05fugqmd&ep=v1_gifs_search&rid=giphy.gif&ct=g">...</a>
-    <a href="https://media3.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif?cid=82a1493bzwbzx1npl4pgilkodd16q8k9wjoozxre05fugqmd&ep=v1_gifs_search&rid=giphy.gif&ct=g">...</a>
-  </p>
-</p>
