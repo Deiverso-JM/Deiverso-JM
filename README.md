@@ -66,18 +66,6 @@
 
 
 
-## 📊 Github stats
-
-<div style="display:flex; gap: 1rem;">
-  <div> 
-
-  ![Deiverso-JM's Stats](https://github-readme-stats.vercel.app/api?username=Deiverso-JM&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-  </div>
-  <div>
-
-  ![Deiverso-JM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deiverso-JM&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-  </div>
-</div>
 
 
 
