@@ -14,7 +14,7 @@
           🤝 Estoy buscando colaborar en proyectos de código abierto.
         </li>
         <li>
-          🌱 Actualmente estoy aprendiendo PowerBI & ASP.net; 
+          🌱 Actualmente estoy aprendiendo patterns design & ASP.net; 
         </li>
         <li>
           👨🏻‍💻 Puedes ver mis proyectos en [Github](https://github.com/Deiverso-JM?tab=repositories)
